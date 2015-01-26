@@ -3,6 +3,9 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 
 Done
 ---
+
+[folder-watch](https://github.com/miyako/4d-plugin-folder-watch)
+
 [curl](https://github.com/miyako/4d-plugin-curl)
 
 [alias-manager](https://github.com/miyako/4d-plugin-alias-manager)
