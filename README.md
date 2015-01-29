@@ -4,6 +4,8 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 Done
 ---
 
+[ping](https://github.com/miyako/4d-plugin-ping)
+
 [folder-watch](https://github.com/miyako/4d-plugin-folder-watch)
 
 [curl](https://github.com/miyako/4d-plugin-curl)
