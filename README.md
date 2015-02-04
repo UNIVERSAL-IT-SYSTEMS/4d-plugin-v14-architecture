@@ -4,6 +4,8 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 Done
 ---
 
+[zip](https://github.com/miyako/4d-plugin-zip)
+
 [qrencode](https://github.com/miyako/4d-plugin-qrencode)
 
 [ping](https://github.com/miyako/4d-plugin-ping)
