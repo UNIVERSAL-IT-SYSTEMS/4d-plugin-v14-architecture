@@ -3,6 +3,8 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 
 Done
 ---
+[text-input-service](https://github.com/miyako/4d-plugin-text-input-service)
+
 [text-convert](https://github.com/miyako/4d-plugin-text-convert)
 
 [zip](https://github.com/miyako/4d-plugin-zip)
