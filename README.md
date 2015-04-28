@@ -4,6 +4,8 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 Done
 ---
 
+[quick-look](https://github.com/miyako/4d-plugin-quick-look)
+
 [devices](https://github.com/miyako/4d-plugin-devices)
 
 [text-input-service](https://github.com/miyako/4d-plugin-text-input-service)
