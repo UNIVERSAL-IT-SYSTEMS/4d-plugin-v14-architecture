@@ -4,6 +4,16 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 Done
 ---
 
+[packages](https://github.com/miyako/4d-plugin-packages)
+
+[kotoeri-option](https://github.com/miyako/4d-plugin-kotoeri-option)
+
+[virtual-key](https://github.com/miyako/4d-plugin-virtual-key)
+
+[folder-watch-2](https://github.com/miyako/4d-plugin-folder-watch-2)
+
+[common-crypto](https://github.com/miyako/4d-plugin-common-crypto)
+
 [quick-look](https://github.com/miyako/4d-plugin-quick-look)
 
 [devices](https://github.com/miyako/4d-plugin-devices)
