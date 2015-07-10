@@ -3,6 +3,8 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 
 Done
 ---
+[mdi](https://github.com/miyako/4d-plugin-mdi)
+
 [common-crypto](https://github.com/miyako/4d-plugin-common-crypto)
 
 [system-volume](https://github.com/miyako/4d-plugin-system-volume)
