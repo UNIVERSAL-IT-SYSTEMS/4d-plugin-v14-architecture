@@ -3,6 +3,9 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 
 Done
 ---
+[common-crypto](https://github.com/miyako/4d-plugin-common-crypto)
+
+[system-volume](https://github.com/miyako/4d-plugin-system-volume)
 
 [packages](https://github.com/miyako/4d-plugin-packages)
 
