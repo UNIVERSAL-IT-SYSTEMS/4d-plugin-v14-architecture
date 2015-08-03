@@ -3,6 +3,11 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 
 Done
 ---
+
+[PDF2SVG](https://github.com/miyako/4d-plugin-PDF2SVG)
+
+[PDF2TEXT](https://github.com/miyako/4d-plugin-PDF2TEXT)
+
 [mdi](https://github.com/miyako/4d-plugin-mdi)
 
 [common-crypto](https://github.com/miyako/4d-plugin-common-crypto)
