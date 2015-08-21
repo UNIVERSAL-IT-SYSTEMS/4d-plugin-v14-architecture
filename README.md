@@ -4,6 +4,12 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 Done
 ---
 
+[shell-execute](https://github.com/miyako/4d-plugin-shell-execute)
+
+[uti-tools](https://github.com/miyako/4d-plugin-uti-tools)
+
+[usb](https://github.com/miyako/4d-plugin-usb)
+
 [PDF2SVG](https://github.com/miyako/4d-plugin-PDF2SVG)
 
 [PDF2TEXT](https://github.com/miyako/4d-plugin-PDF2TEXT)
