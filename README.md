@@ -4,6 +4,8 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 Done
 ---
 
+[mediainfo](https://github.com/miyako/4d-plugin-mediainfo)
+
 [shell-execute](https://github.com/miyako/4d-plugin-shell-execute)
 
 [uti-tools](https://github.com/miyako/4d-plugin-uti-tools)
