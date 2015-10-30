@@ -4,6 +4,16 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 Done
 ---
 
+[role-handlers](https://github.com/miyako/4d-plugin-role-handlers)
+
+[pdf-kit](https://github.com/miyako/4d-plugin-pdf-kit)
+
+[mac-color-picker](https://github.com/miyako/4d-plugin-mac-color-picker)
+
+[convert-color-space](https://github.com/miyako/4d-plugin-convert-color-space)
+
+[apple-push-notification](https://github.com/miyako/4d-plugin-apple-push-notification)
+
 [get-windows-version](https://github.com/miyako/4d-plugin-get-windows-version)
 
 [mediainfo](https://github.com/miyako/4d-plugin-mediainfo)
