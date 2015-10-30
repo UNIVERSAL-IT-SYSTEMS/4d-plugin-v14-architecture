@@ -4,6 +4,8 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 Done
 ---
 
+[split-pictures](https://github.com/miyako/4d-plugin-split-pictures)
+
 [role-handlers](https://github.com/miyako/4d-plugin-role-handlers)
 
 [pdf-kit](https://github.com/miyako/4d-plugin-pdf-kit)
