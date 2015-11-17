@@ -1,8 +1,10 @@
 # 4d-plugin-v14-architecture
 Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 
-Done
+Menu
 ---
+
+[help-menu](https://github.com/miyako/4d-plugin-help-menu)
 
 [split-pictures](https://github.com/miyako/4d-plugin-split-pictures)
 
