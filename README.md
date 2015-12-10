@@ -6,8 +6,6 @@ Menu
 
 [4d-plugin-photo](https://github.com/miyako/4d-plugin-photo)
 
-[4d-plugin-photo](https://github.com/miyako/4d-plugin-photo)
-
 [4d-plugin-HTMLTOX](https://github.com/miyako/4d-plugin-HTMLTOX)
 
 [help-menu](https://github.com/miyako/4d-plugin-help-menu)
