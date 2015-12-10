@@ -4,6 +4,12 @@ Project page of v14 (carbon free, mac-resource free, 64 bits) plugins.
 Menu
 ---
 
+[4d-plugin-photo](https://github.com/miyako/4d-plugin-photo)
+
+[4d-plugin-photo](https://github.com/miyako/4d-plugin-photo)
+
+[4d-plugin-HTMLTOX](https://github.com/miyako/4d-plugin-HTMLTOX)
+
 [help-menu](https://github.com/miyako/4d-plugin-help-menu)
 
 [split-pictures](https://github.com/miyako/4d-plugin-split-pictures)
